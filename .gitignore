@@ -1,0 +1,7 @@
+nbproject/project.xml
+*.properties
+linux_configs.txt
+allied_configs.txt
+mikrotik_configs.txt
+bsd_configs.txt
+index.php
